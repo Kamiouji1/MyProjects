@@ -1,0 +1,41 @@
+body{
+    height: 97vh;
+    width: 98vw;
+    background: linear-gradient(rgb(36, 36, 82),black);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ 
+ /******/
+ }
+ .relogio{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: rgba(75, 54, 110, 0.459);
+     border-radius: 45px;
+ }
+ div{
+     /******/
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin: 10px;
+     padding: 20px;
+     border-radius: 45px;
+     /*border: 2px solid black;*/
+ }
+ span{
+     font-size: 75pt;
+     color: aliceblue;
+ }
+ .texto{
+     font-size: 15pt;
+     color: rgb(253, 253, 253);
+ }
+ h1{
+     color: rgb(94, 94, 53);
+     display: flex;
+     font-size: 65pt;
+ }
